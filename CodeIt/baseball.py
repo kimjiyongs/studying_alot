@@ -16,6 +16,8 @@
 # 3s가 아니면 처음부터 다시
 # 사용자가 3s를 입력하면 축하합니다 *번만에 값과 위치를 모두 맞추셨습니다. 출력
 
+# 한번 바꿔봄
+
 from random import randint
 
 def generate_numbers():
